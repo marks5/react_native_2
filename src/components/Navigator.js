@@ -3,7 +3,6 @@ import { Text, StyleSheet, View } from 'react-native';
 
 export default class Navigator extends Component {
 
-
 	render() {
 
 		const { barraTitulo, txtTitulo } = styles;
